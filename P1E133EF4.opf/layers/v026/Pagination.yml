@@ -7,21 +7,21 @@ annotations:
     reference: ''
     span:
       start: 0
-      end: 690
+      end: 721
     note_ref: 39974ea8b6c14847b4ef53fba4cd7751
   c841229033cb4e5fbe8645f689c6b89c:
     imgnum: 1782
     reference: ''
     span:
-      start: 693
-      end: 2056
+      start: 723
+      end: 2078
     note_ref: 39974ea8b6c14847b4ef53fba4cd7751
   39974ea8b6c14847b4ef53fba4cd7751:
     imgnum: 1783
     reference: ''
     span:
-      start: 2059
-      end: 2785
+      start: 2080
+      end: 2805
     note_ref: 39974ea8b6c14847b4ef53fba4cd7751
 local_ids:
   f271eae2c8ec4a7ebffff2f8055633a6: 200000
